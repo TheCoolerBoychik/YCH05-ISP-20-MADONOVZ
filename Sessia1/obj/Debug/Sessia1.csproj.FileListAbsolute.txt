@@ -1,0 +1,108 @@
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.csproj.AssemblyReference.cache
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\MainWindow.g.cs
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\App.g.cs
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1_MarkupCompile.cache
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1_MarkupCompile.lref
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\Sessia1.exe.config
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\Sessia1.exe
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\Sessia1.pdb
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\MainWindow.baml
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.g.resources
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.Properties.Resources.resources
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.csproj.GenerateResource.cache
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.csproj.CoreCompileInputs.cache
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.exe
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.pdb
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1_Content.g.cs
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\EntityFramework.dll
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\EntityFramework.xml
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerGAY\Desktop\ses1\Sessia1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Sessia1.csproj.CopyComplete
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Glavnoe.g.cs
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Glavnoe.baml
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Dobavlenie.g.cs
+C:\Users\SerGAY\Desktop\ses1\Sessia1\obj\Debug\Dobavlenie.baml
+F:\Sessia1\bin\Debug\Sessia1.exe.config
+F:\Sessia1\bin\Debug\Sessia1.exe
+F:\Sessia1\bin\Debug\Sessia1.pdb
+F:\Sessia1\bin\Debug\EntityFramework.dll
+F:\Sessia1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sessia1\bin\Debug\EntityFramework.xml
+F:\Sessia1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sessia1\bin\Debug\ru\EntityFramework.resources.dll
+F:\Sessia1\obj\Debug\Sessia1.csproj.AssemblyReference.cache
+F:\Sessia1\obj\Debug\Sessia1.csproj.SuggestedBindingRedirects.cache
+F:\Sessia1\obj\Debug\Dobavlenie.g.cs
+F:\Sessia1\obj\Debug\Glavnoe.g.cs
+F:\Sessia1\obj\Debug\MainWindow.g.cs
+F:\Sessia1\obj\Debug\App.g.cs
+F:\Sessia1\obj\Debug\Sessia1_Content.g.cs
+F:\Sessia1\obj\Debug\Sessia1_MarkupCompile.cache
+F:\Sessia1\obj\Debug\Sessia1_MarkupCompile.lref
+F:\Sessia1\obj\Debug\Dobavlenie.baml
+F:\Sessia1\obj\Debug\Glavnoe.baml
+F:\Sessia1\obj\Debug\MainWindow.baml
+F:\Sessia1\obj\Debug\Sessia1.g.resources
+F:\Sessia1\obj\Debug\Sessia1.Properties.Resources.resources
+F:\Sessia1\obj\Debug\Sessia1.csproj.GenerateResource.cache
+F:\Sessia1\obj\Debug\Sessia1.csproj.CoreCompileInputs.cache
+F:\Sessia1\obj\Debug\Sessia1.csproj.CopyComplete
+F:\Sessia1\obj\Debug\Sessia1.exe
+F:\Sessia1\obj\Debug\Sessia1.pdb
+D:\Sessia1\bin\Debug\Sessia1.exe.config
+D:\Sessia1\bin\Debug\Sessia1.exe
+D:\Sessia1\bin\Debug\Sessia1.pdb
+D:\Sessia1\bin\Debug\EntityFramework.dll
+D:\Sessia1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sessia1\bin\Debug\EntityFramework.xml
+D:\Sessia1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sessia1\bin\Debug\ru\EntityFramework.resources.dll
+D:\Sessia1\obj\Debug\Sessia1.csproj.AssemblyReference.cache
+D:\Sessia1\obj\Debug\Sessia1.csproj.SuggestedBindingRedirects.cache
+D:\Sessia1\obj\Debug\Dobavlenie.g.cs
+D:\Sessia1\obj\Debug\Glavnoe.g.cs
+D:\Sessia1\obj\Debug\MainWindow.g.cs
+D:\Sessia1\obj\Debug\App.g.cs
+D:\Sessia1\obj\Debug\Sessia1_Content.g.cs
+D:\Sessia1\obj\Debug\Sessia1_MarkupCompile.cache
+D:\Sessia1\obj\Debug\Sessia1_MarkupCompile.lref
+D:\Sessia1\obj\Debug\Dobavlenie.baml
+D:\Sessia1\obj\Debug\Glavnoe.baml
+D:\Sessia1\obj\Debug\MainWindow.baml
+D:\Sessia1\obj\Debug\Sessia1.g.resources
+D:\Sessia1\obj\Debug\Sessia1.Properties.Resources.resources
+D:\Sessia1\obj\Debug\Sessia1.csproj.GenerateResource.cache
+D:\Sessia1\obj\Debug\Sessia1.csproj.CoreCompileInputs.cache
+D:\Sessia1\obj\Debug\Sessia1.csproj.CopyComplete
+D:\Sessia1\obj\Debug\Sessia1.exe
+D:\Sessia1\obj\Debug\Sessia1.pdb
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\Sessia1.exe.config
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\Sessia1.exe
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\Sessia1.pdb
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\EntityFramework.dll
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\EntityFramework.SqlServer.dll
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\EntityFramework.xml
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\EntityFramework.SqlServer.xml
+D:\УЧ.05\Сессия 1\Sessia1\bin\Debug\ru\EntityFramework.resources.dll
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.csproj.AssemblyReference.cache
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.csproj.SuggestedBindingRedirects.cache
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Dobavlenie.g.cs
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Glavnoe.g.cs
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\MainWindow.g.cs
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\App.g.cs
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1_Content.g.cs
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1_MarkupCompile.cache
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1_MarkupCompile.lref
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Dobavlenie.baml
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Glavnoe.baml
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\MainWindow.baml
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.g.resources
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.Properties.Resources.resources
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.csproj.GenerateResource.cache
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.csproj.CoreCompileInputs.cache
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.csproj.CopyComplete
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.exe
+D:\УЧ.05\Сессия 1\Sessia1\obj\Debug\Sessia1.pdb
